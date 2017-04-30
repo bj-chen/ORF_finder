@@ -18,7 +18,7 @@ In the directory where this script resides:
 
 ./ORF_finder.pl \<ORF_PATH> \<INPUT> \<CHR_PATH>
 
-\<ORF_PATH>: path to the directory where the NCBI's ORF finder tool is located;
+\<ORF_PATH>: path to the directory where the NCBI's ORF finder tool is located; \n
 \<INPUT>: path and file name of the input file;
 \<CHR_PATH>: path to the directory containing DNA sequence of each chromosome.  For example: the assembly of human genome hg38 can be downloaded at: http://hgdownload.cse.ucsc.edu/goldenPath/hg38/bigZips/.
 
