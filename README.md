@@ -1,6 +1,6 @@
 # ORF_finder
 
-This is a wrapper in Perl for finding the maximum length of ORFs a DNA sequence using NCBI's ORF finder tool (downloadable at ftp://ftp.ncbi.nlm.nih.gov/genomes/TOOLS/ORFfinder/linux-i64/);
+This is a wrapper in Perl for finding the maximum length of ORFs within a DNA sequence using NCBI's ORF finder tool (downloadable at ftp://ftp.ncbi.nlm.nih.gov/genomes/TOOLS/ORFfinder/linux-i64/);
 
 Input file must be in the BED format, in which each line consists of:
 
