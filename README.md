@@ -2,7 +2,7 @@
 
 This is a wrapper in Perl for finding the maximum length of ORFs a DNA sequence using NCBI's ORF finder tool (downloadable at ftp://ftp.ncbi.nlm.nih.gov/genomes/TOOLS/ORFfinder/linux-i64/);
 
-Input file must be in the BED format, in which each line is consisted of:
+Input file must be in the BED format, in which each line consists of:
 
 chrom - The name of the chromosome (e.g. chr3, chrY, chr2_random);
 
@@ -10,7 +10,7 @@ chromStart - The starting position of the feature in the chromosome; and
 
 chromEnd - The ending position of the feature in the chromosome.  
 
-The above three fields are seperated by tab.  
+The above three fields are separated by tab.  
 
 Usage:
 
