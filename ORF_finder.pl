@@ -2,7 +2,6 @@
 
 use strict;
 use warnings;
-use List::Util qw( min max );
 use Cwd qw(cwd);
 
 
